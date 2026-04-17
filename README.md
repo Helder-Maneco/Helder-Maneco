@@ -48,10 +48,10 @@ ESP32 (C++) → MQTT → Node.js/TypeScript → PostgreSQL → Qt Dashboard
 ## How to reach me?
 
 📧 [FlixCodes@proton.me](mailto:FlixCodes@proton.me)  
-🐙 [github.com/flixgamerd](https://github.com/Helder-Maneco)
+🐙 [github.com/Helder-Maneco](https://github.com/Helder-Maneco)
 <div align="center">
 
->Helder Maneco
+>Hélder Maneco
 
 
 **Backend Developer · Node.js & TypeScript**  
