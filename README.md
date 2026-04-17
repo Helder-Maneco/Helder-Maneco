@@ -1,6 +1,6 @@
 <div align="center">
 
->Helder Maneco
+>Hélder Maneco
 
 
 **Backend Developer · Node.js & TypeScript**  
@@ -19,7 +19,7 @@ When I'm not writing backend code, I'm probably flashing firmware on an ESP32 or
 
 ## Currently working
 
-### [usina-monitor](https://github.com/flixgamerd/usina-monitor)
+### [usina-monitor](https://github.com/Helder-Maneco/usina-monitor)
 Industrial water desalination monitoring system — embedded + backend + dashboard.
 
 ```
@@ -47,8 +47,8 @@ ESP32 (C++) → MQTT → Node.js/TypeScript → PostgreSQL → Qt Dashboard
 
 ## How to reach me?
 
-📧 [flixgamerd@gmail.com](mailto:flixgamerd@gmail.com)  
-🐙 [github.com/flixgamerd](https://github.com/flixgamerd)
+📧 [FlixCodes@proton.me](mailto:FlixCodes@proton.me)  
+🐙 [github.com/flixgamerd](https://github.com/Helder-Maneco)
 <div align="center">
 
 >Helder Maneco
@@ -70,7 +70,7 @@ When I'm not writing backend code, I'm probably flashing firmware on an ESP32 or
 
 ## Currently working
 
-### [usina-monitor](https://github.com/flixgamerd/usina-monitor)
+### [usina-monitor](https://github.com/Helder-Maneco/usina-monitor)
 Industrial water desalination monitoring system — embedded + backend + dashboard.
 
 ```
@@ -92,7 +92,7 @@ ESP32 (C++) → MQTT → Node.js/TypeScript → PostgreSQL → Qt Dashboard
 **Backend** — Node.js · TypeScript · Express · Fastify · REST APIs  
 **Databases** — PostgreSQL · MongoDB  
 **Embedded** — ESP32 · C++ · MQTT  
-**Environment** — Arch Linux · Neovim · Git · Hyprland  
+**Environment** — Arch Linux · Neovim · Git · Niri
 
 ---
 
