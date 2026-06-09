@@ -41,7 +41,7 @@ ESP32 (C++) → MQTT → Node.js/TypeScript → PostgreSQL → Qt Dashboard
 **Backend** — Node.js · TypeScript · Express · Fastify · REST APIs  
 **Databases** — PostgreSQL · MongoDB  
 **Embedded** — ESP32 · C++ · MQTT  
-**Environment** — Arch Linux · Neovim · Git · Hyprland  
+**Environment** — Arch Linux · Neovim · Git · Niri 
 
 ---
 
