@@ -1,103 +1,31 @@
 <div align="center">
 
->Hélder Maneco
+# Hélder Maneco (Flix)
+**Engenharia de Software & Sistemas Embarcados**  
+Luanda, Angola 🇦🇴
 
-
-**Backend Developer · Node.js & TypeScript**  
-🇦🇴 Angola
-
-</div>
-
----
-
-## About Me 
-
-Backend developer focused on the **JavaScript/TypeScript** ecosystem — building reliable APIs, clean architecture, and systems that scale.  
-When I'm not writing backend code, I'm probably flashing firmware on an ESP32 or debugging industrial sensors.
-
----
-
-## Currently working
-
-### [usina-monitor](https://github.com/Helder-Maneco/usina-monitor)
-Industrial water desalination monitoring system — embedded + backend + dashboard.
-
-```
-ESP32 (C++) → MQTT → Node.js/TypeScript → PostgreSQL → Qt Dashboard
-```
-
-| Layer | Status |
-|---|---|
-| ESP32 Firmware (pH + Salinity) | ✅ Done |
-| Node.js/TypeScript Backend | 🔄 In progress |
-| PostgreSQL Database | 📋 Planned |
-| Qt Desktop Dashboard | 📋 Planned |
-| AI Anomaly Detection | 📋 Planned |
-
----
-
-## Tools I use
-
-**Backend** — Node.js · TypeScript · Express · Fastify · REST APIs  
-**Databases** — PostgreSQL · MongoDB  
-**Embedded** — ESP32 · C++ · MQTT  
-**Environment** — Arch Linux · Neovim · Git · Niri 
-
----
-
-## How to reach me?
-
-📧 [FlixCodes@proton.me](mailto:FlixCodes@proton.me)  
-🐙 [github.com/Helder-Maneco](https://github.com/Helder-Maneco)
-<div align="center">
-
->Hélder Maneco
-
-
-**Backend Developer · Node.js & TypeScript**  
-🇦🇴 Angola
+[`FlixCodes@proton.me`](mailto:FlixCodes@proton.me) · [`github/Helder-Maneco`](https://github.com/Helder-Maneco)
 
 </div>
 
 ---
 
-## About Me 
+## 💻 Perfil Técnico
 
-Backend developer focused on the **JavaScript/TypeScript** ecosystem — building reliable APIs, clean architecture, and systems that scale.  
-When I'm not writing backend code, I'm probably flashing firmware on an ESP32 or debugging industrial sensors.
-
----
-
-## Currently working
-
-### [usina-monitor](https://github.com/Helder-Maneco/usina-monitor)
-Industrial water desalination monitoring system — embedded + backend + dashboard.
-
-```
-ESP32 (C++) → MQTT → Node.js/TypeScript → PostgreSQL → Qt Dashboard
-```
-
-| Layer | Status |
-|---|---|
-| ESP32 Firmware (pH + Salinity) | ✅ Done |
-| Node.js/TypeScript Backend | 🔄 In progress |
-| PostgreSQL Database | 📋 Planned |
-| Qt Desktop Dashboard | 📋 Planned |
-| AI Anomaly Detection | 📋 Planned |
+Desenvolvedor focado no ecossistema **Node.js/TypeScript** para a construção de arquiteturas de backend robustas, APIs escaláveis e integração de dados de hardware em tempo real. Divido meu tempo projetando regras de negócio em servidores de alta concorrência e escrevendo firmware nativo para microcontroladores.
 
 ---
 
-## Tools I use
+## 🛠️ Stack Tecnológica
 
-**Backend** — Node.js · TypeScript · Express · Fastify · REST APIs  
-**Databases** — PostgreSQL · MongoDB  
-**Embedded** — ESP32 · C++ · MQTT  
-**Environment** — Arch Linux · Neovim · Git · Niri
+* **Backend:** Node.js · TypeScript · Fastify · Express · RESTful APIs
+* **Bancos de Dados:** PostgreSQL · MongoDB · Redis
+* **Embarcados & IoT:** ESP32 · C/C++ · Protocolo MQTT · Leitura de Sensores Industriais
+* **Ambiente de Operação:** Arch Linux · Niri Window Manager · Neovim (IDE Core) · Git
 
 ---
 
-## How to reach me?
+## 🧪 Projeto em Destaque
 
-📧 [FlixCodes@proton.me](mailto:FlixCodes@proton.me)  
-🐙 [github.com/Helder-Maneco](https://github.com/Helder-Maneco)
-
+### 🛰️ [usina-monitor](https://github.com/Helder-Maneco/usina-monitor)
+Sistema científico-industrial para monitoramento automatizado de usinas de dessalinização de água. A arquitetura realiza a telemetria completa desde a leitura física do sensor até a camada de processamento analítico no backend.
