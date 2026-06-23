@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hélder Maneco (Flix)
-**Engenharia de Software & Sistemas Embarcados**  
+# Hélder Maneco (Flix Codes)
+**Engenharia de Software**  
 Luanda, Angola 🇦🇴
 
 [`FlixCodes@proton.me`](mailto:FlixCodes@proton.me) · [`github/Helder-Maneco`](https://github.com/Helder-Maneco)
