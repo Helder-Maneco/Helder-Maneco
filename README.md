@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Estudante%20de%20TI-blue?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Foco-Backend%20%26%20IoT-orange?style=for-the-badge&logo=node.js" alt="Foco" />
+  <img src="https://img.shields.io/badge/Foco-Backend%20Developer-navy?style=for-the-badge&logo=node.js" alt="Foco" />
   <img src="https://img.shields.io/badge/Localização-Luanda,%20Angola%20🇦🇴-green?style=for-the-badge" alt="Localização" />
 </div>
 
@@ -10,9 +10,9 @@
 
 ### 🚀 Sobre Mim
 
-Olá! Sou estudante do curso técnico de **Gestão de Sistemas Informáticos** (Ensino Médio) em Luanda, Angola. Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software, arquitetura de sistemas e eletrônica (IoT).
+Olá! Sou estudante do curso técnico de **Gestão de Sistemas Informáticos** (Ensino Médio) em Luanda, Angola. Sou um entusiasta de tecnologia focado em desenvolvimento de software e arquitetura de sistemas.
 
-Dedico meu tempo extracurricular estudando profundamente o ecossistema **Node.js/TypeScript** para o backend e desenvolvendo projetos práticos que integram hardware (microcontroladores) com a web de forma autodidata. Estou em busca da minha primeira oportunidade como **Estagiário** ou **Desenvolvedor Júnior** para aplicar meus estudos e evoluir em cenários reais.
+Dedico meu tempo extracurricular estudando de forma autodidata o ecossistema **Node.js/TypeScript** para a construção de APIs e regras de negócio no backend. Meu objetivo é consolidar meus conhecimentos práticos em desenvolvimento de software e encontrar minha primeira oportunidade como **Estagiário** ou **Desenvolvedor Júnior** backend.
 
 ---
 
@@ -26,33 +26,16 @@ Dedico meu tempo extracurricular estudando profundamente o ecossistema **Node.js
         <li>Node.js & TypeScript</li>
         <li>Express & Fastify</li>
         <li>Desenvolvimento de APIs RESTful</li>
-        <li>PostgreSQL & MongoDB (Estudos práticos)</li>
+        <li>PostgreSQL & MongoDB (Estudos práticos de bancos de dados)</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h4>🔌 Embarcados & IoT</h4>
-      <ul>
-        <li>ESP32 / ESP8266</li>
-        <li>C / C++ para microcontroladores</li>
-        <li>Protocolo de comunicação (MQTT/HTTP)</li>
-        <li>Leitura de sensores industriais/residenciais</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>⚙️ Ambiente de Trabalho</h4>
+      <h4>⚙️ Ambiente de Trabalho & Ferramentas</h4>
       <ul>
         <li>Sistema Operacional: Arch Linux</li>
         <li>Window Manager: Niri</li>
-        <li>Editor de Código: Neovim (meu ambiente favorito!)</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>🔧 Controle & Ferramentas</h4>
-      <ul>
-        <li>Git & GitHub (Versionamento)</li>
-        <li>Conceitos de Gestão de Redes e TI</li>
+        <li>Editor de Código: Neovim</li>
+        <li>Git & GitHub (Controle de Versão)</li>
       </ul>
     </td>
   </tr>
@@ -60,14 +43,16 @@ Dedico meu tempo extracurricular estudando profundamente o ecossistema **Node.js
 
 ---
 
-### 🧪 Projeto de Estudos em Destaque
+### 🧪 Projetos em Destaque
 
-#### 🛰️ [usina-monitor](https://github.com/Helder-Maneco/usina-monitor)
-*Projeto pessoal focado em telemetria e integração de hardware com software.*
+#### 📦 [Winona](https://github.com/Helder-Maneco/Winona)
+*Sistema web para gestão de estoque e inventário.*
 
-* **O que faz:** Um protótipo conceitual e prático para monitorar usinas de dessalinização de água em tempo real.
-* **Tecnologias:** ESP32 programado em **C/C++** para a leitura física de sensores e transmissão de dados, integrado a uma API em **TypeScript (Node.js)** que processa e armazena as métricas.
-* **Objetivo:** Consolidar meus estudos em arquitetura de backend de alta performance, protocolos de comunicação e integração direta com hardware de forma autônoma.
+* **O que é:** Um projeto que estou desenvolvendo ativamente para resolver problemas reais de controle de mercadorias, movimentação de produtos e gerenciamento de inventário.
+* **Tecnologias:** Desenvolvido em **TypeScript** utilizando banco de dados para persistência e APIs bem estruturadas para comunicação.
+* **O que estou praticando aqui:** Modelagem de dados (banco de dados), autenticação, controle de rotas, tratamento de erros e lógica de negócios focada em consistência de dados.
+
+> 💡 **Interesses Secundários:** Nas horas vagas, também gosto de arranhar um pouco de C/C++ e lógica de hardware de forma conceitual, apenas por curiosidade teórica e hobby.
 
 ---
 
