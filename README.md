@@ -1,4 +1,4 @@
-# 👋 Hélder Maneco! (Flix Codes)
+#                                👋 Hélder Maneco (Flix Codes)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Estudante%20de%20TI-blue?style=for-the-badge" alt="Status" />
