@@ -63,5 +63,5 @@ Dedico meu tempo extracurricular estudando de forma autodidata o ecossistema **N
 
 ---
 <div align="center">
-  <i>"O aprendizado contínuo é a única constante no desenvolvimento de software."</i>
+  <i>"Talk is cheap, Show me the code." — Linus Torvalds</i>
 </div>
