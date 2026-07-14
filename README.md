@@ -1,6 +1,6 @@
-#                                👋 Hélder Maneco (Flix Codes)
-
 <div align="center">
+# 👋 Hélder Maneco (Flix Codes)
+
   <img src="https://img.shields.io/badge/Status-Estudante%20de%20TI-blue?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Foco-Backend%20Developer-navy?style=for-the-badge&logo=node.js" alt="Foco" />
   <img src="https://img.shields.io/badge/Localização-Luanda,%20Angola%20🇦🇴-green?style=for-the-badge" alt="Localização" />
