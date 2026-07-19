@@ -2,22 +2,22 @@
 
 # Hélder Maneco (Flix Codes)
 
-  <img src="https://img.shields.io/badge/Status-Estudante%20de%20TI-blue?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Foco-Backend%20Developer-navy?style=for-the-badge&logo=node.js" alt="Foco" />
-  <img src="https://img.shields.io/badge/Localização-Luanda,%20Angola%20🇦🇴-green?style=for-the-badge" alt="Localização" />
+  <img src="https://img.shields.io/badge/Status-IT%20Student-blue?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Developer-navy?style=for-the-badge&logo=node.js" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Luanda,%20Angola%20🇦🇴-green?style=for-the-badge" alt="Location" />
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-Olá! Sou estudante do curso técnico de **Gestão de Sistemas Informáticos** (Ensino Médio) em Luanda, Angola. Sou um entusiasta de tecnologia focado em desenvolvimento de software e arquitetura de sistemas.
+Hello! I'm a student studying **Systems Information Management** (Technical High School) in Luanda, Angola. I'm a technology enthusiast focused on software development and system architecture.
 
-Dedico meu tempo extracurricular estudando de forma autodidata o ecossistema **Node.js/TypeScript** para a construção de APIs e regras de negócio no backend. Meu objetivo é consolidar meus conhecimentos práticos em desenvolvimento de software e encontrar minha primeira oportunidade como **Estagiário** ou **Desenvolvedor Júnior** backend.
+I dedicate my extracurricular time self-studying the **Node.js/TypeScript** ecosystem for building APIs and business logic in backend. My goal is to consolidate my practical knowledge in software development and secure my first opportunity as a **Junior Developer Intern** or **Junior Backend Developer**.
 
 ---
 
-### 🛠️ Minha Stack em Evolução
+### 🛠️ Evolving Tech Stack
 
 <table>
   <tr>
@@ -26,17 +26,17 @@ Dedico meu tempo extracurricular estudando de forma autodidata o ecossistema **N
       <ul>
         <li>Node.js & TypeScript</li>
         <li>Express & Fastify</li>
-        <li>Desenvolvimento de APIs RESTful</li>
-        <li>PostgreSQL & MongoDB (Estudos práticos de bancos de dados)</li>
+        <li>RESTful API Development</li>
+        <li>PostgreSQL & MongoDB (Hands-on database practice)</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h4>⚙️ Ambiente de Trabalho & Ferramentas</h4>
+      <h4>⚙️ Development Environment & Tools</h4>
       <ul>
-        <li>Sistema Operacional: Arch Linux</li>
+        <li>Operating System: Arch Linux</li>
         <li>Window Manager: Niri</li>
-        <li>Editor de Código: Neovim</li>
-        <li>Git & GitHub (Controle de Versão)</li>
+        <li>Code Editor: Neovim</li>
+        <li>Git & GitHub (Version Control)</li>
       </ul>
     </td>
   </tr>
@@ -44,25 +44,25 @@ Dedico meu tempo extracurricular estudando de forma autodidata o ecossistema **N
 
 ---
 
-### 🧪 Projetos em Destaque
+### 🧪 Featured Projects
 
 #### 📦 [Winona](https://github.com/Helder-Maneco/Winona)
-*Sistema web para gestão de estoque e inventário.*
+*Web-based inventory and stock management system.*
 
-* **O que é:** Um projeto que estou desenvolvendo ativamente para resolver problemas reais de controle de mercadorias, movimentação de produtos e gerenciamento de inventário.
-* **Tecnologias:** Desenvolvido em **TypeScript** utilizando banco de dados para persistência e APIs bem estruturadas para comunicação.
-* **O que estou praticando aqui:** Modelagem de dados (banco de dados), autenticação, controle de rotas, tratamento de erros e lógica de negócios focada em consistência de dados.
+* **What it is:** An active project I'm developing to solve real-world problems in merchandise control, product movement, and inventory management.
+* **Technologies:** Built with **TypeScript**, utilizing databases for persistence and well-structured APIs for communication.
+* **What I'm practicing here:** Data modeling (database), authentication, route control, error handling, and business logic focused on data consistency.
 
-> 💡 **Interesses Secundários:** Nas horas vagas, também gosto de arranhar um pouco de C/C++ e lógica de hardware de forma conceitual, apenas por curiosidade teórica e hobby.
+> 💡 **Side Interests:** In my spare time, I also enjoy scratching at C/C++ and hardware logic conceptually—just for theoretical curiosity and hobby.
 
 ---
 
-### 📫 Como me encontrar?
+### 📫 Get in Touch
 
 * 📧 Email: [FlixCodes@proton.me](mailto:FlixCodes@proton.me)
 * 🐙 GitHub: [github.com/Helder-Maneco](https://github.com/Helder-Maneco)
 
 ---
 <div align="center">
-  <i>"Talk is cheap, Show me the code." — Linus Torvalds</i>
+  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 </div>
