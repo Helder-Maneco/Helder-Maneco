@@ -61,6 +61,7 @@ I dedicate my extracurricular time self-studying the **Node.js/TypeScript** ecos
 
 * 📧 Email: [FlixCodes@proton.me](mailto:FlixCodes@proton.me)
 * 🐙 GitHub: [github.com/Helder-Maneco](https://github.com/Helder-Maneco)
+* 📧 Linkedin: [Linkedin/helder-maneco](https://www.linkedin.com/in/h%C3%A9lder-maneco/)
 
 ---
 <div align="center">
