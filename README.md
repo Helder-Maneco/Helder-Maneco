@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hélder Maneco (Flix Codes)
+# Hélder Maneco
 
   <img src="https://img.shields.io/badge/Status-IT%20Student-blue?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Developer-navy?style=for-the-badge&logo=node.js" alt="Focus" />
