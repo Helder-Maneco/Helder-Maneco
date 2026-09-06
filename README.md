@@ -11,32 +11,32 @@
 
 ### 🚀 About Me
 
-Hello! I'm a student studying **Systems Information Management** (Technical High School) in Luanda, Angola. I'm a technology enthusiast focused on software development and system architecture.
+Hello! I'm a **Systems Information Management** student in Luanda, Angola, dedicated to software development, backend systems, and architecture.
 
-I dedicate my extracurricular time self-studying the **Node.js/TypeScript** ecosystem for building APIs and business logic in backend. My goal is to consolidate my practical knowledge in software development and secure my first opportunity as a **Junior Developer Intern** or **Junior Backend Developer**.
+I spend my time building APIs and business logic using the **Node.js / TypeScript** ecosystem. My main objective is to apply solid backend fundamentals and secure my first role as a **Junior Backend Developer** or **Software Engineering Intern**.
 
 ---
 
-### 🛠️ Evolving Tech Stack
+### 🛠️ Tech Stack & Workflow
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <h4>💻 Backend & APIs</h4>
       <ul>
-        <li>Node.js & TypeScript</li>
-        <li>Express & Fastify</li>
-        <li>RESTful API Development</li>
-        <li>PostgreSQL & MongoDB (Hands-on database practice)</li>
+        <li><b>Languages:</b> TypeScript, JavaScript</li>
+        <li><b>Frameworks:</b> Node.js, Express, Fastify</li>
+        <li><b>Databases:</b> PostgreSQL, MongoDB</li>
+        <li><b>Concepts:</b> RESTful APIs, Data Modeling, Auth</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h4>⚙️ Development Environment & Tools</h4>
+      <h4>⚙️ Environment & Tools</h4>
       <ul>
-        <li>Operating System: Arch Linux</li>
-        <li>Window Manager: Niri</li>
-        <li>Code Editor: Neovim</li>
-        <li>Git & GitHub (Version Control)</li>
+        <li><b>OS:</b> Arch Linux</li>
+        <li><b>WM:</b> Niri</li>
+        <li><b>Editor:</b> Neovim</li>
+        <li><b>Version Control:</b> Git & GitHub</li>
       </ul>
     </td>
   </tr>
@@ -49,21 +49,23 @@ I dedicate my extracurricular time self-studying the **Node.js/TypeScript** ecos
 #### 📦 [Winona](https://github.com/Helder-Maneco/Winona)
 *Web-based inventory and stock management system.*
 
-* **What it is:** An active project I'm developing to solve real-world problems in merchandise control, product movement, and inventory management.
-* **Technologies:** Built with **TypeScript**, utilizing databases for persistence and well-structured APIs for communication.
-* **What I'm practicing here:** Data modeling (database), authentication, route control, error handling, and business logic focused on data consistency.
+`TypeScript` • `Node.js` • `PostgreSQL` • `REST APIs`
 
-> 💡 **Side Interests:** In my spare time, I also enjoy scratching at C/C++ and hardware logic conceptually—just for theoretical curiosity and hobby.
+* **The Core Problem:** An active system built to streamline merchandise tracking, product flow, and inventory control.
+* **Engineering Focus:** Data modeling, authentication, route control, resilient error handling, and robust business logic.
+
+> 💡 **Side Interests:** In my free time, I enjoy exploring C/C++ and low-level computer architecture purely out of technical curiosity.
 
 ---
 
 ### 📫 Get in Touch
 
-* 📧 Email: [FlixCodes@proton.me](mailto:FlixCodes@proton.me)
-* 🐙 GitHub: [github.com/Helder-Maneco](https://github.com/Helder-Maneco)
-* 📧 Linkedin: [Linkedin/helder-maneco](https://www.linkedin.com/in/h%C3%A9lder-maneco/)
+* 📧 **Email:** [FlixCodes@proton.me](mailto:FlixCodes@proton.me)
+* 🐙 **GitHub:** [github.com/Helder-Maneco](https://github.com/Helder-Maneco)
+* 💼 **LinkedIn:** [linkedin.com/in/hélder-maneco](https://www.linkedin.com/in/h%C3%A9lder-maneco/)
 
 ---
+
 <div align="center">
   <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 </div>
