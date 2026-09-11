@@ -61,7 +61,6 @@ I spend my time building APIs and business logic using the **Node.js / TypeScrip
 ### 📫 Get in Touch
 
 * 📧 **Email:** [FlixCodes@proton.me](mailto:FlixCodes@proton.me)
-* 🐙 **GitHub:** [github.com/Helder-Maneco](https://github.com/Helder-Maneco)
 * 💼 **LinkedIn:** [linkedin.com/in/hélder-maneco](https://www.linkedin.com/in/h%C3%A9lder-maneco/)
 
 ---
