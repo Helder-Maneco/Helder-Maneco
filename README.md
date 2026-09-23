@@ -2,7 +2,7 @@
 
 # Hélder Maneco
 
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Junior%20Roles-2ea44f?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-IT%20Student-blue?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Developer-1f6feb?style=for-the-badge&logo=node.js&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Luanda,%20Angola%20🇦🇴-green?style=for-the-badge" alt="Location" />
 </div>
@@ -71,3 +71,9 @@ I spend my time building APIs and business logic using the **Node.js / TypeScrip
 
 * 📧 **Email:** [FlixCodes@proton.me](mailto:FlixCodes@proton.me)
 * 💼 **LinkedIn:** [linkedin.com/in/hélder-maneco](https://www.linkedin.com/in/h%C3%A9lder-maneco/)
+
+---
+
+<div align="center">
+  <i>"Talk is cheap, but bricks are expensive." — Hélder Maneco</i>
+</div>
